@@ -9,8 +9,7 @@
 - ♦️ From Braga, Portugal
 - ♣️ Actively trying to be a better developer each day.
 - ♥️ I go to the gym, play some games and volleyball in my free time.
-- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code!  
-
+- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code! 
 
 <div align="center">
 
