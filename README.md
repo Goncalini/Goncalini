@@ -4,12 +4,12 @@
 
 # 👋🏼 Hello, I´m Gonçalo :)
 
-### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- ♠️ Director | Recreation Department @ [CeSIUM](cesium.di.uminho.pt)
+### I'm a MSc Student in Software Engineering Student @ Universidade do Minho @ [UMinho](https://uminho.pt)
+- ♠️ Vocal | Hackathon BugsByte General Organizer @ [CeSIUM](cesium.di.uminho.pt)
 - ♦️ From Braga, Portugal
 - ♣️ Actively trying to be a better developer each day.
 - ♥️ I go to the gym, play some games and volleyball in my free time.
-- ☯ Also a mentor @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code! 
+- ☯ Also a Mentor and Curriculum and Material Responsible @ [CoderDojoBraga](https://coderdojobraga.org) where we teach 7 to 17 years old how to code! 
 
 <div align="center">
 
