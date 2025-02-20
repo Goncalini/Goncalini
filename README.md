@@ -4,7 +4,7 @@
 
 # 👋🏼 Hello, I´m Gonçalo :)
 
-### I'm a MSc Student in Software Engineering Student @ Universidade do Minho @ [UMinho](https://uminho.pt)
+### I'm a MSc Student in Software Engineering @ Universidade do Minho @ [UMinho](https://uminho.pt)
 - ♠️ Vocal | Hackathon BugsByte General Organizer @ [CeSIUM](cesium.di.uminho.pt)
 - ♦️ From Braga, Portugal
 - ♣️ Actively trying to be a better developer each day.
