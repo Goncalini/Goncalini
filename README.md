@@ -5,7 +5,7 @@
 # 👋🏼 Hello, I´m Gonçalo :)
 
 ### I'm a MSc Student in Software Engineering @ Universidade do Minho
-- ♠️ Vocal | Hackathon BugsByte General Organizer @ [CeSIUM](cesium.di.uminho.pt)
+- ♠️ Vocal | Hackathon BugsByte General Organizer @ [CeSIUM](cesium.di.uminho.pt) [BugsByte](https://bugsbyte.org)
 - ♦️ From Braga, Portugal
 - ♣️ Actively trying to be a better developer each day.
 - ♥️ I go to the gym, play some games and volleyball in my free time.
